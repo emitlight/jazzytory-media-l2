@@ -1,0 +1,62 @@
+[
+ {
+  "moduleId": "m-l2-01-rootless",
+  "title": "루트리스 보이싱 A/B",
+  "durationSec": 1158.4354,
+  "version": 1,
+  "bgm": "Music: \"Modern Jazz Samba\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 90501639,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media-l2"
+ },
+ {
+  "moduleId": "m-l2-02-guide-tone-lines",
+  "title": "가이드 톤 라인",
+  "durationSec": 1132.739,
+  "version": 1,
+  "bgm": "Music: \"Local Forecast\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 88938258,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media-l2"
+ },
+ {
+  "moduleId": "m-l2-03-tensions",
+  "title": "텐션 9·11·13과 어보이드 노트",
+  "durationSec": 1116.1573,
+  "version": 1,
+  "bgm": "Music: \"Mining by Moonlight\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 83716623,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media-l2"
+ },
+ {
+  "moduleId": "m-l2-04-comping-rhythm",
+  "title": "컴핑 리듬과 여백",
+  "durationSec": 1112.7337,
+  "version": 1,
+  "bgm": "Music: \"Airport Lounge\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 81824077,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media-l2"
+ },
+ {
+  "moduleId": "m-l2-05-turnarounds",
+  "title": "턴어라운드·인트로·엔딩",
+  "durationSec": 1184.4642,
+  "version": 1,
+  "bgm": "Music: \"Jazz Brunch\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 90261077,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media-l2"
+ },
+ {
+  "moduleId": "m-l2-06-form-navigation",
+  "title": "폼 안에서 길 잃지 않기",
+  "durationSec": 1154.4796,
+  "version": 1,
+  "bgm": "Music: \"Lobby Time\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 87031182,
+  "publishedAt": "2026-10-17",
+  "url": "https://emitlight.github.io/jazzytory-media-l2"
+ }
+]
